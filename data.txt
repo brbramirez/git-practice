@@ -1,3 +1,4 @@
 Name: Barbara
 Age: 24
 Favorite Color: black
+Country: Spain
